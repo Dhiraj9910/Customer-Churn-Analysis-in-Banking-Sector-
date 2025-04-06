@@ -1,6 +1,6 @@
 ##########################################
 ## Customer Churn in Banking
-##  - Group 8
+## 
 ##
 ###########################################
 
@@ -11,7 +11,7 @@ library(vip)
 
 
 # Set up the working directory using setwd()
-# setwd("C:/Users/Aseem UB/Documents/Fall23/Project/BI/")
+# setwd("C:/Users/Documents/Fall23/Project/BI/")
 # getwd() # verify working directory
 
 # Extracting csv data from churn.csv to df0
